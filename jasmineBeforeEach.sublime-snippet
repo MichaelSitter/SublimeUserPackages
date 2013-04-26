@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+beforeEach(function() {
+    ${1:fn}
+});
+]]></content>
+    <tabTrigger>jasb</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Autocomplete Javascript with Method Signature",
+		"Emmet",
+		"Expand Selection to Function (JavaScript)",
+		"Git",
+		"Handlebars",
+		"JavaScript Console",
+		"jQuery",
+		"JsFormat",
+		"JSLint",
+		"Package Control",
+		"SublimeLinter"
+	]
+}

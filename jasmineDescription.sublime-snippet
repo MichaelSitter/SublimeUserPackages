@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+describe('${1:description}', function () {
+});
+]]>
+    </content>
+    <tabTrigger>jasd</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

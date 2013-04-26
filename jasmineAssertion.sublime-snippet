@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+it('${1:assertion}', function () {
+});
+]]>
+    </content>
+    <tabTrigger>jasa</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
