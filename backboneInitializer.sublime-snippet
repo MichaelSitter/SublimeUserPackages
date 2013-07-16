@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+	initialize: function ($(1:options)) {
+		$(2:body}
+	}
+]]>
+    </content>
+    <tabTrigger>init</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
