@@ -12,6 +12,8 @@
 		"JsFormat",
 		"JSLint",
 		"Package Control",
+		"Ruby Coverage",
+		"Sass",
 		"SublimeLinter"
 	]
 }
