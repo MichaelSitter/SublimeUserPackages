@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+	define([
+		'marionette',
+		'hbs!templates/${1:templatePath}',
+		'views/${2:itemView}'
+	],
+	function (Marionette, template, itemView) {
+		'use strict';
+		return Marionette.ListView.extend({
+			template: template,
+			itemView: itemView
+		});
+	});
+]]></content>
+	<tabTrigger>mlistview</tabTrigger>
+	<scope>source.javascript</scope>
+</snippet>

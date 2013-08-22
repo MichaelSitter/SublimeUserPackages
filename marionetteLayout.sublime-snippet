@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+	define([
+		'marionette',
+		'hbs!templates/${1:templatePath}'
+	],
+	function (Marionette, template) {
+		'use strict';
+		return Marionette.Layout.extend({
+			template: template,
+			regions: {
+				${2:regions}
+			}
+		});
+	});
+]]></content>
+	<tabTrigger>mlayout</tabTrigger>
+	<scope>source.javascript</scope>
+</snippet>
