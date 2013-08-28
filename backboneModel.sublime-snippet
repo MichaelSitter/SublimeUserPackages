@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+define(['backbone'], function (Backbone) {
+	'use strict';
+	return Backbone.Model.extend({
+		defaults: {
+			${1:defaults}
+		},
+		url: '${2:url}'
+	});
+});
+]]>
+	</content>
+	<tabTrigger>bmodel</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

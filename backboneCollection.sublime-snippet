@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+define([
+	'backbone',
+	'${1:modelPath}'
+],
+function (Backbone, Model) {
+	'use strict';
+	return Backbone.Collection.extend({
+		model: Model
+	});
+});
+]]></content>
+	<tabTrigger>bcollection</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
