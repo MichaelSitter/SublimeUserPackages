@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+	define(['marionette'],
+	function (Marionette) {
+		'use strict';
+		return Marionette.AppRouter.extend({
+			routes: {
+				${1:routes}
+			},
+			initialize: function () {
+				${2:initialization}
+			}
+		});
+	});
+]]></content>
+	<tabTrigger>mapprouter</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
