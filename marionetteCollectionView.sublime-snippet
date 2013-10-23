@@ -6,11 +6,11 @@
 	],
 	function (Marionette, itemView) {
 		'use strict';
-		return Marionette.ListView.extend({
+		return Marionette.CollectionView.extend({
 			itemView: itemView
 		});
 	});
 ]]></content>
-	<tabTrigger>mlistview</tabTrigger>
+	<tabTrigger>mcollectionview</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
