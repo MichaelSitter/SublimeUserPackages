@@ -1,16 +1,16 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 define(['${1:path}/${2:module}'], function (${2:module}) {
 
-    describe('${3:description}', function () {
+	describe('${3:description}', function () {
 
 		describe('${4:given}', function () {
 			
 		});
-    });
+	});
 });
 ]]>
-    </content>
-    <tabTrigger>jass</tabTrigger>
-    <scope>source.js</scope>
+	</content>
+	<tabTrigger>jass</tabTrigger>
+	<scope>source.js</scope>
 </snippet>

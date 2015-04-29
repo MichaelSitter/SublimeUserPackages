@@ -1,9 +1,9 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 beforeEach(function() {
-    ${1:fn}
+	${1:fn}
 });
 ]]></content>
-    <tabTrigger>jasb</tabTrigger>
-    <scope>source.js</scope>
+	<tabTrigger>jasb</tabTrigger>
+	<scope>source.js</scope>
 </snippet>

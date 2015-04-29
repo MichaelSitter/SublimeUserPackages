@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
-describe('${1:description}', function () {
-});
+	throw new Error('not implemented');
 ]]>
 	</content>
-	<tabTrigger>jasd</tabTrigger>
+	<tabTrigger>nie</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
