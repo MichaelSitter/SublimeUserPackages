@@ -1,8 +1,8 @@
 <snippet>
 	<content>
 <![CDATA[
-module.exports = ['$scope', ${1:dependency}
-	function ($scope, ${1:dependency}) {
+module.exports = ['\$scope', ${1:dependency}
+	function (\$scope, ${1:dependency}) {
 		
 	}];
 ]]>
