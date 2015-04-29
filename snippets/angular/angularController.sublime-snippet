@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+<![CDATA[
+module.exports = ['$scope', ${1:dependency}
+	function ($scope, ${1:dependency}) {
+		
+	}];
+]]>
+	</content>
+	<tabTrigger>angc</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
